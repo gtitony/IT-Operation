@@ -1,6 +1,14 @@
 ## 概述
 
-对于需要客户端验证的场景，在Windows环境下，可以通过ADCS服务以及AD域策略实现Auto Enrollment 自动为用户注册客户端证书。但是如果用户环境里还有MacOS以及其他操作系统并不能支持AD的自动颁发客户端证书的机制。
+对于需要客户端验证的场景，在Windows环境下，可以通过ADCS服务以及AD域策略实现Auto Enrollment 自动为用户注册客户端证书。但是如果用户环境里还有MacOS以及其他操作系统，并不能支持AD的自动颁发客户端证书的机制。所以这里提供了手动创建客户端证书的脚步，以及操作步骤，仅供参考。
+
+
+
+## 代码下载 
+
+Github 国内可能需要通过科学上网方式
+
+[下载链接](https://github.com/gtitony/IT-Operation/tree/main/Generate%20User%20Certificate%20for%20MacOS)
 
 
 
