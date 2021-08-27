@@ -1,0 +1,5 @@
+[NewRequest]
+Subject = "CN=user01,E=user01@tonylab.loc"
+
+[RequestAttributes]
+CertificateTemplate = "User Certificate For Mac"
