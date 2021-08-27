@@ -32,15 +32,15 @@
 
 7. 修改 certrequest.inf 文件，修改 Subject 的用户名以及邮箱地址 
 
-![123](https://github.com/gtitony/IT-Operation/blob/bcf6182cd4f732174f5e30a26ec984781207e5ec/Generate%20User%20Certificate%20for%20MacOS/images/7.png)
+![123](https://github.com/gtitony/IT-Operation/blob/0e61881e34d7d4dc22799e879a8e889359c1dad6/Generate%20User%20Certificate%20for%20MacOS/images/7.png)
 
 8. 执行 Generate_User_Certiface_for_Mac.cmd 脚本 
 
-![123](https://github.com/gtitony/IT-Operation/blob/bcf6182cd4f732174f5e30a26ec984781207e5ec/Generate%20User%20Certificate%20for%20MacOS/images/8.png)
+![123](https://github.com/gtitony/IT-Operation/blob/0e61881e34d7d4dc22799e879a8e889359c1dad6/Generate%20User%20Certificate%20for%20MacOS/images/8.png)
 
 9. 生成了用户名 - user01.pfx 的证书文件
 
-![123](https://github.com/gtitony/IT-Operation/blob/bcf6182cd4f732174f5e30a26ec984781207e5ec/Generate%20User%20Certificate%20for%20MacOS/images/9.png)
+![123](https://github.com/gtitony/IT-Operation/blob/0e61881e34d7d4dc22799e879a8e889359c1dad6/Generate%20User%20Certificate%20for%20MacOS/images/9.png)
 
 
 
