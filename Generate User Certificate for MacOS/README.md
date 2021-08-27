@@ -16,7 +16,7 @@ Github 国内可能需要通过科学上网方式
 
 1. 打开 **Certificate Authority**, 选择 **Certificate Template** -> **Manage** 
 
-![01](https://github.com/gtitony/IT-Operation/blob/5f16e98d7da87c14f2b269849b6bcb965eb5f230/Generate%20User%20Certificate%20for%20MacOS/images/1.png?raw=true)
+<img src="https://github.com/gtitony/IT-Operation/blob/5f16e98d7da87c14f2b269849b6bcb965eb5f230/Generate%20User%20Certificate%20for%20MacOS/images/1.png?raw=true" alt="01" style="zoom:50%;" />
 
 2. 选择之前创建的 **Cerififace Template** - **User Certificate Auto Enrollment** -> **Duplicate Template**
 
